@@ -1,6 +1,7 @@
 # R_imputering_kurs
 
-Detter er kurs om Imputering - sette inn manglende verdier i data.
+Detter er kurs om Imputering - sette inn estimerte akseptable verdier istedenfor data som mangler eller er feil.
+
 
 Målet er at medarbeiderne skal lære de mest kjente metodene for imputering og kunne bruke R til å gjennomføre imputeringen.
 
