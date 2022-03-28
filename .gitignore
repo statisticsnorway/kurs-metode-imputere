@@ -1,0 +1,36 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Rprofile
+
+*.log
+*.tmp
+**/logs
+*.jpeg
+**/reports/log/runtime/_current/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+.idea/
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+renv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
