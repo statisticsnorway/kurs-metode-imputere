@@ -1,0 +1,4 @@
+"step","srcref","expression","total","count_tom"
+1,NA,"start_log(expression_logger$new(total = sum(arsverk_2021_for, na.rm = TRUE), count_tom = sum(is.na(arsverk_2021_for))))",5096.2,12
+2,NA,"impute_lm(arsverk_2021_for ~ arsverk_2020)",5179.90240126501,0
+3,NA,"dump_log(""cellwise"", file = ""log_cellwise.csv"")",5179.90240126501,0
